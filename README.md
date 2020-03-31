@@ -1,2 +1,0 @@
-# Clock
-Created with CodeSandbox
